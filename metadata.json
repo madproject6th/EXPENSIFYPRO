@@ -1,0 +1,6 @@
+{
+  "name": "Expensify Pro",
+  "description": "Professional personal expense tracker and financial management app with real-time budgets, analytics, recurring bills, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
